@@ -1,0 +1,14 @@
+C:\Users\julij\Documents\MiInventario\bin\Debug\net10.0\MiInventario.exe
+C:\Users\julij\Documents\MiInventario\bin\Debug\net10.0\MiInventario.deps.json
+C:\Users\julij\Documents\MiInventario\bin\Debug\net10.0\MiInventario.runtimeconfig.json
+C:\Users\julij\Documents\MiInventario\bin\Debug\net10.0\MiInventario.dll
+C:\Users\julij\Documents\MiInventario\bin\Debug\net10.0\MiInventario.pdb
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.AssemblyInfoInputs.cache
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.AssemblyInfo.cs
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.csproj.CoreCompileInputs.cache
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.dll
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\refint\MiInventario.dll
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.pdb
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\MiInventario.genruntimeconfig.cache
+C:\Users\julij\Documents\MiInventario\obj\Debug\net10.0\ref\MiInventario.dll
